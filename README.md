@@ -39,9 +39,9 @@
 
 
 ### <img src="https://github.com/sigeje/cv/assets/2736623/073354b9-3264-4b19-b2e3-7f091f95d367" height="20" style="vertical-align:sub;" /> Competitions
-- <a href="https://www.mitrais.com/news-updates/celebrating-the-6th-innovathon-recap-of-the-most-electrifying-grand-finale" style="text-decoration:none;">**Mitrais Innovathon 6**</a>
+- <a href="https://www.mitrais.com/news-updates/celebrating-the-6th-innovathon-recap-of-the-most-electrifying-grand-finale" style="text-decoration:none;">Mitrais Innovathon 6</a>
   1st Winner (2023)
-- <a href="https://dailysocial.id/post/inilah-tiga-finalis-pemenang-ajang-hackon-2022" style="text-decoration:none;">**OCBC Hack@hon 2022**</a>
+- <a href="https://dailysocial.id/post/inilah-tiga-finalis-pemenang-ajang-hackon-2022" style="text-decoration:none;">OCBC Hack@hon 2022</a>
   1st Winner (2022)
 
   <a href="https://web.archive.org/web/20231202120425/https://dailysocial.id/post/inilah-tiga-finalis-pemenang-ajang-hackon-2022" style="text-decoration:none;">Backup link</a>
